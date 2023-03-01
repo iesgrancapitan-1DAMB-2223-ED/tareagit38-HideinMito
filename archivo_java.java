@@ -1,7 +1,7 @@
 public class Persona {
     private String nombre;
     private int edad;
-    private String dirección;
+    private String direccion;
     
     public Persona(String nombre, int edad, String direccion) {
         this.nombre = nombre;
